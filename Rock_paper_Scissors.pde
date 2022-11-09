@@ -72,7 +72,7 @@ void mousePressed() {
     endGame();
   }
   if (paperChoice==1 && computerChoice==1) {
-    println("you WON!");
+    println("you WIN!");
     endGame();
   }
   if (scissorChoice==1 && computerChoice==2) {
